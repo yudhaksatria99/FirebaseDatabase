@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "390553024367",
+    "firebase_url": "https://fir-database-34f55.firebaseio.com",
+    "project_id": "fir-database-34f55",
+    "storage_bucket": "fir-database-34f55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390553024367:android:18adad3c7b4faa83",
+        "android_client_info": {
+          "package_name": "com.yudha.firebasedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390553024367-3bdivpoi4abnih56vfcs6qio5v53j6pr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yudha.firebasedatabase",
+            "certificate_hash": "15717acb9e17d9c33774dda27793232f7889fdf6"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKjUgVhDKkSMLfaOzFExhMx8fqjS5bc1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390553024367-fjj7sa2r511hhkqaj47cklq6g9v2uj9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
